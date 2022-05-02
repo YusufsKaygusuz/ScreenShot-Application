@@ -1,0 +1,21 @@
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\bin\Debug\Take a screenshot.exe.config
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\bin\Debug\Take a screenshot.exe
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\bin\Debug\Take a screenshot.pdb
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take_a_screenshot.Form1.resources
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take_a_screenshot.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.exe
+C:\Users\Yusuf Kaygusuz\source\repos\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\bin\Debug\Take a screenshot.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\bin\Debug\Take a screenshot.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\bin\Debug\Take a screenshot.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take_a_screenshot.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take_a_screenshot.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Take a screenshot\Take a screenshot\obj\Debug\Take a screenshot.pdb
